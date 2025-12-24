@@ -10,15 +10,16 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=KaviskCorp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=KaviskCorp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"
+    height="165"
   />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaviskCorp&layout=compact&langs_count=8&theme=dracula"
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaviskCorp&layout=compact&langs_count=8&theme=dracula&hide_border=true"
+    height="165"
   />
 </div>
+
 
 ---
 
