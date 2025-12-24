@@ -11,11 +11,11 @@
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=KaviskCorp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=kaviskicorporation&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"
     height="165"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaviskCorp&layout=compact&langs_count=8&theme=dracula&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaviskicorporation&layout=compact&langs_count=8&theme=dracula&hide_border=true"
     height="165"
   />
 </div>
@@ -65,5 +65,8 @@
 ## 🐍 Contributions
 
 <div align="center">
-  <img src="https://github.com/KaviskCorp/KaviskCorp/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img 
+    src="https://github.com/KaviskCorp/KaviskCorp/blob/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Snake Animation"
+  />
 </div>
